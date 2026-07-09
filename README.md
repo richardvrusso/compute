@@ -3,7 +3,7 @@ Taking a play from my enterprise world. This is a compute server only running Do
 
 | Preview | Product Name | Component Specifications & Notes |
 | :---: | :--- | :--- |
-| ![Case](https://unsplash.com) | [Cooler Master MasterBox Q300L Micro-ATX Tower](https://a.co/d/06zHDARY){:target="_blank"} | Micro-ATX form factor case layout |
+| ![Case](https://m.media-amazon.com/images/I/91UOdM9izhL._AC_SL1500_.jpg) | [Cooler Master MasterBox Q300L Micro-ATX Tower](https://a.co/d/06zHDARY){:target="_blank"} | Micro-ATX form factor case layout |
 | ![Motherboard](https://newegg.com) | [SUPERMICRO X10SRM-F Micro ATX Server Motherboard R3](https://newegg.com){:target="_blank"} | LGA 2011 Intel C612 chip platform |
 | ![CPU](https://unsplash.com) | [Intel Xeon E5-2650 V4 Processor (Renewed)](https://a.co){:target="_blank"} | SR2N3 12-Core 2.2GHz 30MB Cache LGA 2011-3 |
 | ![RAM](https://unsplash.com) | [SK HYNIX 32GB PC4-19200T-R Server Memory](https://a.co/d/03uwxJMB){:target="_blank"} | HMA84GR7MFR4N-UH DDR4-2400 ECC RDIMM 2Rx4<br>• *128GB total setup of ECC RAM* |
