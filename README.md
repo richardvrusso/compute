@@ -8,6 +8,12 @@
     border: 1px solid #224422 !important; /* Faint matrix-green lines to match the Hacker theme */
     padding: 10px !important;
   }
+  /* Force all images in the first column to be exact 60x60 pixel squares */
+  td:first-child img {
+    width: 200px !important;
+    height: 200px !important;
+    object-fit: contain !important; /* Prevents the image from stretching or distorting */
+    background-color: transparent;  /* Keeps it clean on the dark background */
 </style>
 
 # unRAID Compute Server
@@ -33,9 +39,5 @@ Taking a play from my enterprise world. This is a compute server only running Do
 | ![PSU](https://m.media-amazon.com/images/I/71BtdBtKX5L._AC_SL1500_.jpg) | [Thermaltake Toughpower GX2 600W ATX PSU](https://a.co){:target="_blank"} | 80+ Gold certified continuous power delivery unit |
 
 # unRAID Storage Server
-
-
 # Game Rig
-
-
 # Test Bench
