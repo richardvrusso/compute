@@ -10,8 +10,8 @@
   }
   /* Force all images in the first column to be exact 60x60 pixel squares */
   td:first-child img {
-    width: 200px !important;
-    height: 200px !important;
+    width: 300px !important;
+    height: 300px !important;
     object-fit: contain !important; /* Prevents the image from stretching or distorting */
     background-color: transparent;  /* Keeps it clean on the dark background */
 </style>
