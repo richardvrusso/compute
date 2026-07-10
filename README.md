@@ -37,7 +37,3 @@ Taking a play from my enterprise world. This is a compute server only running Do
 | ![NIC](https://m.media-amazon.com/images/I/51HsviUQa7L._AC_.jpg) | [MellanoxConnectX-3 EN 10G Ethernet SFP+ PCI-E NIC](https://a.co){:target="_blank"} | High speed data backbone fiber interface network card<br>• *Connects to SFP in a Ubiquiti 24-port POE switch* |
 | ![Cable](https://m.media-amazon.com/images/I/51SK0aIAJhL._SL1008_.jpg) | [H!Fiber.com 2 Pack 10G SFP+ DAC Cable 2M](https://a.co){:target="_blank"} | Twinax passive network patch link assemblies<br>• *One for unRAID server and one for storage server* |
 | ![PSU](https://m.media-amazon.com/images/I/71BtdBtKX5L._AC_SL1500_.jpg) | [Thermaltake Toughpower GX2 600W ATX PSU](https://a.co){:target="_blank"} | 80+ Gold certified continuous power delivery unit |
-
-# unRAID Storage Server
-# Game Rig
-# Test Bench
